@@ -1,11 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:5A67D8&height=210&section=header&text=Surendra%20Varikallu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20to%20Opportunities&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:5A67D8&height=220&section=header&text=Surendra%20Varikallu&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Production%20Systems%20at%20Scale&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-surendravarikallu.dev-5A67D8?style=for-the-badge)](https://surendravarikallu.dev/)
-[![Email](https://img.shields.io/badge/📧%20Email-varikallusurendra@gmail.com-EA4335?style=for-the-badge)](mailto:varikallusurendra@gmail.com)
-[![Location](https://img.shields.io/badge/📍%20Guntur-Andhra%20Pradesh,%20India-2D9CDB?style=for-the-badge)]()
-[![Open to Work](https://img.shields.io/badge/✅%20Open%20to-Hire-22C55E?style=for-the-badge)]()
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-surendravarikallu.dev-5A67D8?style=for-the-badge)](https://surendravarikallu.dev/)
+[![Email](https://img.shields.io/badge/📧_Email-varikallusurendra@gmail.com-EA4335?style=for-the-badge)](mailto:varikallusurendra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendravarikallu)
+[![Location](https://img.shields.io/badge/📍_Guntur-Andhra%20Pradesh,%20India-2D9CDB?style=for-the-badge)]()
+
+</div>
+
+<div align="center">
+
+### 🎓 Final Year B.Tech (CSE) · Graduating 2027 · **Actively Seeking Full-Time Roles**
+
+[![Open to Work](https://img.shields.io/badge/✅_Available_From-June_2026-22C55E?style=for-the-badge)]()
+[![Role](https://img.shields.io/badge/💼_Target_Role-SDE%20%7C%20Full--Stack%20%7C%20Backend-F59E0B?style=for-the-badge)]()
+[![Response](https://img.shields.io/badge/📬_Response_Time-Within_24hrs-7C3AED?style=for-the-badge)]()
+
+</div>
+
+---
+
+## ⚡ Impact at a Glance
+
+> I don't just build projects — I build **production systems that real people use every day.**
+
+<div align="center">
+
+| 🚀 Real Users | 🏆 Hackathons | 🛠️ Production Systems | 🎖️ Certifications | 🌐 Community |
+|:---:|:---:|:---:|:---:|:---:|
+| **5000+** concurrent users on Skillnox | **3rd Prize** — 48-hr Hackathon | **2 live platforms** at college scale | **Oracle OCI GenAI Pro** + 6 others | **150+ students** as Google Ambassador |
 
 </div>
 
@@ -13,16 +41,25 @@
 
 ## 👨‍💻 About Me
 
-I'm **Surendra Varikallu**, a Full-Stack Developer who builds **production-grade systems** that solve real problems — not just side projects. I created **Skillnox**, a secure assessment platform actively used by **250+ students** at my college, and **KITAghire.in**, a full Training & Placement portal. I care about clean architecture, real-world impact, and scalable code.
-
 ```text
-🔭  Building:   Skillnox.AI — AI-powered interview & assessment platform (Local LLMs)
-🏗️  Deployed:   Skillnox (250+ users) · KITAghire.in (College T&P Portal)
-🏆  Won:        Hackathon 3rd Prize — StudentConnect (48hrs, Python + Django)
-🌐  Ambassador: Google Student Ambassador @ KITS (150+ community, 7+ workshops)
-🎓  Certified:  Oracle OCI Generative AI Pro · IIT Bombay TechFest AI/DS
-📫  Contact:    varikallusurendra@gmail.com  |  +91 9392423976
+🔭  Building:    Skillnox.AI — AI-powered interview & assessment platform (Local LLMs)
+🏗️  Deployed:    Skillnox (5000+ users) · KITAghire.in (College T&P Portal)
+🏆  Won:         Hackathon 3rd Prize — StudentConnect (48hrs, Python + Django)
+🌐  Ambassador:  Google Student Ambassador @ KITS (150+ community, 7+ workshops)
+🎓  Certified:   Oracle OCI Generative AI Pro · IIT Bombay TechFest AI/DS
+🎯  Graduating:  B.Tech CSE, 2027 — Open to SDE / Full-Stack / Backend roles
+📫  Contact:     varikallusurendra@gmail.com  |  +91 9392423976
 ```
+
+---
+
+## 🔥 Why Hire Me?
+
+- ✅ **Shipped real software** — Not just tutorials. Skillnox serves **5000+ concurrent users** with anti-cheat & real-time evaluation. KITAghire.in runs live T&P operations at my college.
+- ✅ **Full ownership** — I architect, build, deploy, and maintain systems end-to-end. No hand-holding needed.
+- ✅ **AI-aware developer** — Integrated Local LLMs (Qwen), Gemini API, and Oracle OCI GenAI into production and academic projects.
+- ✅ **Fast learner under pressure** — Built a working hackathon project in 48 hours that won 3rd place out of many teams.
+- ✅ **Community leader** — Ran 7+ technical workshops as Google Student Ambassador, grew a 150+ member tech community.
 
 ---
 
@@ -64,52 +101,56 @@ I'm **Surendra Varikallu**, a Full-Stack Developer who builds **production-grade
 
 ## 🚀 Featured Projects
 
-### ⭐ Skillnox Platform — *Production · Scaled to 5000+ Users*
-> Secure online assessment platform deployed college-wide at KITS. Engineered and scaled to handle thousands of concurrent users across different assessment types with advanced anti-cheating mechanisms.
+### 🥇 Skillnox Platform — *Production · 5000+ Concurrent Users*
+
+> Secure online assessment platform deployed college-wide at KITS. Engineered from scratch and scaled to handle thousands of concurrent users with advanced anti-cheating mechanisms, real-time evaluation, and live coding environments.
 
 | Feature | Detail |
 |---|---|
-| 👥 Scale | **5000+ concurrent users** on MCQ tests & normal browsing |
-| 💻 Coding Scale | **1000+ concurrent users** on live coding assessments |
-| 🔒 Anti-Cheat | Tab switch detection · Shortcut/Windows key blocking · DevTools disabled · AI extension blocking |
-| ⚡ Evaluation | Real-time result processing |
-| 🔗 Live | [skillnox.kitaghire.in](https://skillnox.kitaghire.in) |
-| 🛠 Stack | React · Node.js · Express · PostgreSQL |
-| 📁 Repo | 🔒 Private |
+| 👥 **MCQ Scale** | **5000+ concurrent users** — stable under peak exam load |
+| 💻 **Coding Scale** | **1000+ concurrent users** on live coding assessments |
+| 🔒 **Anti-Cheat** | Tab detection · Shortcut/Windows key blocking · DevTools disabled · AI extension blocking |
+| ⚡ **Evaluation** | Real-time result processing with auto-grading |
+| 🏗️ **Architecture** | Designed for reliability & zero downtime during exams |
+| 🔗 **Live** | [skillnox.kitaghire.in](https://skillnox.kitaghire.in) |
+| 🛠 **Stack** | React · Node.js · Express · PostgreSQL |
+| 📁 **Repo** | 🔒 Private (contact for demo) |
 
 ---
 
 ### 🏛️ KITAghire.in — *College Training & Placement Portal*
-> Full-featured placement management system built for KITS college's Training & Placement Office (TPO), replacing manual processes with a digital dashboard.
+
+> Full-featured placement management system for KITS T&P Office, replacing 100% manual processes with a live digital system used by admins, students, and visiting companies.
 
 | Feature | Detail |
 |---|---|
-| 📊 Dashboard | TPO admin panel with real-time analytics |
-| 🎓 Student Tracking | Performance tracking & training records |
-| 📄 Reports | Excel & PDF export of placement data |
-| 🔗 Live | [kitaghire.in](https://kitaghire.in) |
-| 🛠 Stack | React · Node.js · PostgreSQL |
-| 📁 Repo | 🔒 Private |
+| 📊 **Dashboard** | TPO admin panel with real-time analytics |
+| 🎓 **Student Tracking** | Performance tracking & training records |
+| 📄 **Reports** | Excel & PDF export of placement data |
+| 🔗 **Live** | [kitaghire.in](https://kitaghire.in) |
+| 🛠 **Stack** | React · Node.js · PostgreSQL |
+| 📁 **Repo** | 🔒 Private (contact for demo) |
 
 ---
 
-### 🤖 Skillnox.AI — *In Development*
-> AI-powered technical interview & assessment platform. Extends Skillnox with local LLM integration for privacy-first adaptive evaluation.
+### 🤖 Skillnox.AI — *In Active Development*
+
+> AI-powered technical interview & assessment platform. Extends Skillnox with local LLM integration (Qwen) for privacy-first, adaptive candidate evaluation — no cloud LLM dependency.
 
 **Stack:** React.js · Local LLMs (Qwen) · Tailwind CSS &nbsp;|&nbsp; 📁 Private
 
 ---
 
-### 🏆 Other Projects
+### 🏆 Other Public Projects
 
-| Project | Description | Stack | Links |
+| Project | Description | Stack | Impact |
 |---|---|---|---|
-| 🥉 **StudentConnect** | Hackathon 3rd Prize — collaborative student resource platform built in 48hrs | Python · Django · PostgreSQL | [Code](https://github.com/surendravarikallu/HSJM) · [Live](http://studentconnect-sjc1.onrender.com/) |
-| 🛡️ **Bug Bounty Platform** | Cybersecurity event platform with multi-round scoring, log analysis & CTF challenges | React · Node.js · Express | [Code](https://github.com/surendravarikallu/Bug_Bounty) · [Live](https://bug-bounty-j687.onrender.com/) |
-| 📚 **LumoraEd** | Student learning platform with roadmaps, coding challenges & progress analytics | React · Node.js · MongoDB | [Code](https://github.com/surendravarikallu/LumoraEd) · [Live](https://lumoraed.onrender.com/) |
-| 🌦️ **SkySense** | Real-time weather dashboard with geolocation & interactive maps | TypeScript · Leaflet · WeatherAPI | [Code](https://github.com/surendravarikallu/weather_dashboard) · [Live](https://weather-dashboard-wmdm.vercel.app/) |
-| ⛓️ **Algo Assistant** | AI chatbot for Algorand/Blockchain dev — create NFTs, tokens & dApps | React · Node.js · Gemini API | [Code](https://github.com/surendravarikallu/Algo-assistant) |
-| ✈️ **AdventureAura** | Travel agency website with tour booking & destination showcase | HTML · CSS · JavaScript | [Code](https://github.com/surendravarikallu/adventure_aura) · [Live](https://adventure-aura-ivory.vercel.app/) |
+| 🥉 **StudentConnect** | Hackathon 3rd Prize — collaborative student resource platform | Python · Django · PostgreSQL | Built in **48 hours** · [Demo](http://studentconnect-sjc1.onrender.com/) |
+| 🛡️ **Bug Bounty Platform** | Cybersecurity event with multi-round scoring, log analysis & CTF | React · Node.js · Express | Hosted live CTF event · [Live](https://bug-bounty-j687.onrender.com/) |
+| 📚 **LumoraEd** | Student learning platform with roadmaps & progress analytics | React · Node.js · MongoDB | Full-stack end-to-end · [Live](https://lumoraed.onrender.com/) |
+| 🌦️ **SkySense** | Real-time weather dashboard with geolocation & maps | TypeScript · Leaflet · WeatherAPI | [Code](https://github.com/surendravarikallu/weather_dashboard) · [Live](https://weather-dashboard-wmdm.vercel.app/) |
+| ⛓️ **Algo Assistant** | AI chatbot for Algorand blockchain — create NFTs, tokens & dApps | React · Node.js · Gemini API | [Code](https://github.com/surendravarikallu/Algo-assistant) |
+| ✈️ **AdventureAura** | Travel agency site with tour booking & destination showcase | HTML · CSS · JavaScript | [Live](https://adventure-aura-ivory.vercel.app/) |
 
 ---
 
@@ -118,20 +159,21 @@ I'm **Surendra Varikallu**, a Full-Stack Developer who builds **production-grade
 ```
 🏆  Hackathon 3rd Prize — StudentConnect                           Feb 2026
     Dept. of CSE, KITS  |  48-hour hackathon  |  Python + Django + PostgreSQL
+    → Competed against multiple teams, delivered working product in under 48 hours
 
 🌟  Google Student Ambassador                                  Aug – Dec 2025
     KITS Akshar Institute of Technology
-    ↳  7+ technical workshops (Google Cloud, Android, AI tools)
-    ↳  Built & managed 150+ student tech community
-    ↳  50% rise in Google program registrations on campus
+    → Delivered 7+ technical workshops (Google Cloud, Android, AI tools)
+    → Built & managed a 150+ student tech community from scratch
+    → Drove 50% rise in Google program registrations on campus
 
 💼  Full-Stack Web Developer Intern — Cognifyz Technologies    Jun – Jul 2025
-    ↳  Built full-stack apps with React, Node.js, Express, MongoDB
-    ↳  Integrated RESTful APIs · Reduced bottlenecks by 30%
+    → Built full-stack apps: React · Node.js · Express · MongoDB
+    → Integrated RESTful APIs · Reduced pipeline bottlenecks by 30%
 
 💼  Web Development Intern — Codegnan (Offline)                May – Jun 2025
-    ↳  Built & deployed responsive travel website (< 2s load time)
-    ↳  UI prototyping with Figma & Adobe XD
+    → Designed & deployed responsive travel website (< 2s load time)
+    → UI/UX prototyping with Figma & Adobe XD
 ```
 
 ---
@@ -154,12 +196,17 @@ I'm **Surendra Varikallu**, a Full-Stack Developer who builds **production-grade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surendravarikallu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendravarikallu&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=surendravarikallu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendravarikallu&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" height="170"/>
+
+<br/><br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=surendravarikallu&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&date_format=j%20M%5B%20Y%5D)
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=surendravarikallu&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surendravarikallu&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -169,20 +216,27 @@ I'm **Surendra Varikallu**, a Full-Stack Developer who builds **production-grade
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=surendravarikallu&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=surendravarikallu&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect — I'm Ready to Join Your Team
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-surendravarikallu.dev-5A67D8?style=for-the-badge)](https://surendravarikallu.dev/)
-[![Email](https://img.shields.io/badge/📧%20Email-varikallusurendra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varikallusurendra@gmail.com)
+> 🎓 **Final Year B.Tech CSE · Graduating June 2026**
+> Available for **full-time SDE / Full-Stack / Backend roles** starting June 2026.
+> I respond to all recruiter messages within 24 hours.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-surendravarikallu.dev-5A67D8?style=for-the-badge)](https://surendravarikallu.dev/)
+[![Email](https://img.shields.io/badge/📧_Email-varikallusurendra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varikallusurendra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendravarikallu)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surendravarikallu)
+[![Phone](https://img.shields.io/badge/📞_Call-+91_9392423976-22C55E?style=for-the-badge)]()
 
 </div>
 
@@ -190,9 +244,11 @@ I'm **Surendra Varikallu**, a Full-Stack Developer who builds **production-grade
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A67D8,100:6EE7F7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A67D8,100:6EE7F7&height=120&section=footer" width="100%"/>
 
 *"I don't just write code — I build systems that people actually use."*
+
+<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=surendravarikallu&color=5A67D8&style=for-the-badge&label=Profile+Views)
 
