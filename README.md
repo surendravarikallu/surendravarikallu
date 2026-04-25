@@ -17,7 +17,7 @@
 
 ### 🎓 Final Year B.Tech (CSE) · Graduating 2027 · **Actively Seeking Full-Time Roles**
 
-[![Open to Work](https://img.shields.io/badge/✅_Available_From-June_2026-22C55E?style=for-the-badge)]()
+[![Open to Work](https://img.shields.io/badge/✅_Available_From-march_2027-22C55E?style=for-the-badge)]()
 [![Role](https://img.shields.io/badge/💼_Target_Role-SDE%20%7C%20Full--Stack%20%7C%20Backend-F59E0B?style=for-the-badge)]()
 [![Response](https://img.shields.io/badge/📬_Response_Time-Within_24hrs-7C3AED?style=for-the-badge)]()
 
