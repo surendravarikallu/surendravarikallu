@@ -33,7 +33,7 @@
 
 | 🚀 Real Users | 🏆 Hackathons | 🛠️ Production Systems | 🎖️ Certifications | 🌐 Community |
 |:---:|:---:|:---:|:---:|:---:|
-| [**5,000+** concurrent users (99.66% success)](https://github.com/surendravarikallu/Skillnox/blob/main/docs/STRESS_TEST_REPORT.md) | **1st Prize (Winner)** — Elevate X Hackathon & **3rd Prize** Hackathon | **2 live platforms** at college scale | **Oracle OCI GenAI Pro** + 6 others | **150+ students** as Google Ambassador |
+| [**5,000+** concurrent users (99.66% success)](./docs/skillnox/STRESS_TEST_REPORT.md) | **1st Prize (Winner)** — Elevate X Hackathon & **3rd Prize** Hackathon | **2 live platforms** at college scale | **Oracle OCI GenAI Pro** + 6 others | **150+ students** as Google Ambassador |
 
 </div>
 
@@ -114,7 +114,7 @@
 | 🏗️ **Architecture** | Designed for reliability & zero downtime during exams |
 | 🔗 **Live** | [skillnox.kitaghire.in](https://skillnox.kitaghire.in) |
 | 🛠 **Stack** | React · Node.js · Express · PostgreSQL |
-| 📁 **Repo & Proof** | [GitHub Repository](https://github.com/surendravarikallu/Skillnox) · [5,000 VU Stress Test Report](https://github.com/surendravarikallu/Skillnox/blob/main/docs/STRESS_TEST_REPORT.md) |
+| 📁 **Repo & Proof** | 🔒 Private Codebase · [5,000 VU Stress Test Report](./docs/skillnox/STRESS_TEST_REPORT.md) · [Production Scaling Blueprint](./docs/skillnox/SCALING_GUIDE_5000_USERS.md) |
 
 ---
 
