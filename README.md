@@ -182,7 +182,7 @@
 🏆  Hackathon 3rd Prize — StudentConnect                           Feb 2026
     Dept. of CSE, KITS  |  48-hour hackathon  |  Python + Django + PostgreSQL
     → Competed against multiple teams, delivered working product in under 48 hours
-```
+
 🌟  Google Student Ambassador                                  Aug – Dec 2025
     KITS Akshar Institute of Technology
     → Delivered 7+ technical workshops (Google Cloud, Android, AI tools)
