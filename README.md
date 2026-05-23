@@ -33,7 +33,7 @@
 
 | 🚀 Real Users | 🏆 Hackathons | 🛠️ Production Systems | 🎖️ Certifications | 🌐 Community |
 |:---:|:---:|:---:|:---:|:---:|
-| [**5,000+** concurrent users (99.66% success)](https://github.com/surendravarikallu/Skillnox/blob/main/docs/STRESS_TEST_REPORT.md) | **Elevate X Hackathon** (Global Smile) & **3rd Prize** Hackathon | **2 live platforms** at college scale | **Oracle OCI GenAI Pro** + 6 others | **150+ students** as Google Ambassador |
+| [**5,000+** concurrent users (99.66% success)](https://github.com/surendravarikallu/Skillnox/blob/main/docs/STRESS_TEST_REPORT.md) | **1st Prize (Winner)** — Elevate X Hackathon & **3rd Prize** Hackathon | **2 live platforms** at college scale | **Oracle OCI GenAI Pro** + 6 others | **150+ students** as Google Ambassador |
 
 </div>
 
@@ -44,7 +44,7 @@
 ```text
 🔭  Building:    Skillnox.AI — AI-powered interview & assessment platform (Local LLMs)
 🏗️  Deployed:    Skillnox (5k users, 99.66% load tested) · KITAghire.in (College T&P)
-🏆  Won:         Elevate X Hackathon (Global Smile) · Hackathon 3rd Prize (StudentConnect)
+🏆  Won:         1st Prize Winner — Elevate X Hackathon (Global Smile) · Hackathon 3rd Prize (StudentConnect)
 🌐  Ambassador:  Google Student Ambassador @ KITS (150+ community, 7+ workshops)
 🎓  Certified:   Oracle OCI Generative AI Pro · IIT Bombay TechFest AI/DS
 🎯  Graduating:  B.Tech CSE, April 2027 — Open to SDE / Full-Stack / Backend roles
@@ -58,7 +58,7 @@
 - ✅ **Shipped real software** — Not just tutorials. Skillnox serves **5000+ concurrent users** with anti-cheat & real-time evaluation. KITAghire.in runs live T&P operations at my college.
 - ✅ **Full ownership** — I architect, build, deploy, and maintain systems end-to-end. No hand-holding needed.
 - ✅ **AI-aware developer** — Integrated Local LLMs (Qwen), Gemini API, and Oracle OCI GenAI into production and academic projects.
-- ✅ **Fast learner under pressure** — Built a working hackathon project in 48 hours that won 3rd place out of many teams.
+- ✅ **Fast learner under pressure** — Won **1st Place** at the 12-hour Elevate X Hackathon out of multiple teams, and **3rd Place** at another 48-hour hackathon.
 - ✅ **Community leader** — Ran 7+ technical workshops as Google Student Ambassador, grew a 150+ member tech community.
 
 ---
@@ -118,9 +118,9 @@
 
 ---
 
-### 🦷 Global Smile — *Codegnan Elevate X Hackathon (Healthcare-Tech)*
+### 🦷 Global Smile — *1st Prize Winner · Codegnan Elevate X Hackathon*
 
-> Developed an integrated Patient Acquisition & Trust Engine for specialized prosthodontic clinics under a high-pressure 12-hour build with 3 continuous feedback evaluation phases. Appreciated by the judges for vision, execution, and innovation, with internship opportunities offered.
+> Developed an integrated Patient Acquisition & Trust Engine for specialized prosthodontic clinics under a high-pressure 12-hour build with 3 continuous feedback evaluation phases. Awarded **1st Prize** out of all competing teams. Appreciated by the judges for vision, execution, and innovation, with internship opportunities offered.
 
 | Feature | Detail |
 |---|---|
@@ -161,7 +161,7 @@
 
 | Project | Description | Stack | Impact |
 |---|---|---|---|
-| 🏆 **Global Smile** | AI-powered Patient Acquisition & Trust Engine for dental clinics | Next.js · Node.js · Gemini API | Built in **12 hours** at Elevate X Hackathon · [Demo](https://lnkd.in/gtD998Rx) |
+| 🏆 **Global Smile** | AI-powered Patient Acquisition & Trust Engine for dental clinics | Next.js · Node.js · Gemini API | **1st Prize Winner** at Elevate X Hackathon (12-hour build) · [Demo](https://lnkd.in/gtD998Rx) |
 | 🥉 **StudentConnect** | Hackathon 3rd Prize — collaborative student resource platform | Python · Django · PostgreSQL | Built in **48 hours** · [Demo](http://studentconnect-sjc1.onrender.com/) |
 | 🛡️ **Bug Bounty Platform** | Cybersecurity event with multi-round scoring, log analysis & CTF | React · Node.js · Express | Hosted live CTF event · [Live](https://bug-bounty-j687.onrender.com/) |
 | 📚 **LumoraEd** | Student learning platform with roadmaps & progress analytics | React · Node.js · MongoDB | Full-stack end-to-end · [Live](https://lumoraed.onrender.com/) |
@@ -174,10 +174,10 @@
 ## 💼 Experience
 
 ```
-🏆  Codegnan Elevate X Hackathon — Global Smile                  May 2026
-    12-hour hackathon  |  3 evaluation phases with continuous judge feedback
+🏆  1st Prize Winner — Codegnan Elevate X Hackathon              May 2026
+    Global Smile  |  12-hour hackathon  |  3 evaluation phases with judge feedback
     → Developed Global Smile, an integrated trust engine for prosthodontics
-    → Appreciated by judges for vision and execution; received internship offers
+    → Won 1st place; judges appreciated the vision and offered internships
 
 🏆  Hackathon 3rd Prize — StudentConnect                           Feb 2026
     Dept. of CSE, KITS  |  48-hour hackathon  |  Python + Django + PostgreSQL
