@@ -33,7 +33,7 @@
 
 | 🚀 Real Users | 🏆 Hackathons | 🛠️ Production Systems | 🎖️ Certifications | 🌐 Community |
 |:---:|:---:|:---:|:---:|:---:|
-| **5000+** concurrent users on Skillnox | **3rd Prize** — 48-hr Hackathon | **2 live platforms** at college scale | **Oracle OCI GenAI Pro** + 6 others | **150+ students** as Google Ambassador |
+| [**5,000+** concurrent users (99.66% success)](https://github.com/surendravarikallu/Skillnox/blob/main/docs/STRESS_TEST_REPORT.md) | **Elevate X Hackathon** (Global Smile) & **3rd Prize** Hackathon | **2 live platforms** at college scale | **Oracle OCI GenAI Pro** + 6 others | **150+ students** as Google Ambassador |
 
 </div>
 
@@ -43,11 +43,11 @@
 
 ```text
 🔭  Building:    Skillnox.AI — AI-powered interview & assessment platform (Local LLMs)
-🏗️  Deployed:    Skillnox (5000+ users) · KITAghire.in (College T&P Portal)
-🏆  Won:         Hackathon 3rd Prize — StudentConnect (48hrs, Python + Django)
+🏗️  Deployed:    Skillnox (5k users, 99.66% load tested) · KITAghire.in (College T&P)
+🏆  Won:         Elevate X Hackathon (Global Smile) · Hackathon 3rd Prize (StudentConnect)
 🌐  Ambassador:  Google Student Ambassador @ KITS (150+ community, 7+ workshops)
 🎓  Certified:   Oracle OCI Generative AI Pro · IIT Bombay TechFest AI/DS
-🎯  Graduating:  B.Tech CSE, 2027 — Open to SDE / Full-Stack / Backend roles
+🎯  Graduating:  B.Tech CSE, April 2027 — Open to SDE / Full-Stack / Backend roles
 📫  Contact:     varikallusurendra@gmail.com  |  +91 9392423976
 ```
 
@@ -114,7 +114,23 @@
 | 🏗️ **Architecture** | Designed for reliability & zero downtime during exams |
 | 🔗 **Live** | [skillnox.kitaghire.in](https://skillnox.kitaghire.in) |
 | 🛠 **Stack** | React · Node.js · Express · PostgreSQL |
-| 📁 **Repo** | 🔒 Private (contact for demo) |
+| 📁 **Repo & Proof** | [GitHub Repository](https://github.com/surendravarikallu/Skillnox) · [5,000 VU Stress Test Report](https://github.com/surendravarikallu/Skillnox/blob/main/docs/STRESS_TEST_REPORT.md) |
+
+---
+
+### 🦷 Global Smile — *Codegnan Elevate X Hackathon (Healthcare-Tech)*
+
+> Developed an integrated Patient Acquisition & Trust Engine for specialized prosthodontic clinics under a high-pressure 12-hour build with 3 continuous feedback evaluation phases. Appreciated by the judges for vision, execution, and innovation, with internship opportunities offered.
+
+| Feature | Detail |
+|---|---|
+| 🦷 **AI Smile Visualizer** | Interactive model for visualizing prosthodontic treatment outcomes |
+| 🌍 **Dental Tourism Calculator** | Comparative cost analysis tool for international/interstate patients |
+| 🔐 **Transparency Dashboard** | Treatment progress and trust-building dashboard for patients |
+| 🤝 **Referral Ecosystem** | B2B dentist-to-specialist referral system |
+| 📲 **AI Patient Follow-up** | Smart follow-up engine ensuring post-treatment engagement |
+| 🔗 **Demo & Post** | [LinkedIn Post & Demo](https://lnkd.in/gtD998Rx) |
+| 🛠 **Stack** | Next.js · Node.js · Gemini API · Tailwind CSS |
 
 ---
 
@@ -145,6 +161,7 @@
 
 | Project | Description | Stack | Impact |
 |---|---|---|---|
+| 🏆 **Global Smile** | AI-powered Patient Acquisition & Trust Engine for dental clinics | Next.js · Node.js · Gemini API | Built in **12 hours** at Elevate X Hackathon · [Demo](https://lnkd.in/gtD998Rx) |
 | 🥉 **StudentConnect** | Hackathon 3rd Prize — collaborative student resource platform | Python · Django · PostgreSQL | Built in **48 hours** · [Demo](http://studentconnect-sjc1.onrender.com/) |
 | 🛡️ **Bug Bounty Platform** | Cybersecurity event with multi-round scoring, log analysis & CTF | React · Node.js · Express | Hosted live CTF event · [Live](https://bug-bounty-j687.onrender.com/) |
 | 📚 **LumoraEd** | Student learning platform with roadmaps & progress analytics | React · Node.js · MongoDB | Full-stack end-to-end · [Live](https://lumoraed.onrender.com/) |
@@ -157,10 +174,15 @@
 ## 💼 Experience
 
 ```
+🏆  Codegnan Elevate X Hackathon — Global Smile                  May 2026
+    12-hour hackathon  |  3 evaluation phases with continuous judge feedback
+    → Developed Global Smile, an integrated trust engine for prosthodontics
+    → Appreciated by judges for vision and execution; received internship offers
+
 🏆  Hackathon 3rd Prize — StudentConnect                           Feb 2026
     Dept. of CSE, KITS  |  48-hour hackathon  |  Python + Django + PostgreSQL
     → Competed against multiple teams, delivered working product in under 48 hours
-
+```
 🌟  Google Student Ambassador                                  Aug – Dec 2025
     KITS Akshar Institute of Technology
     → Delivered 7+ technical workshops (Google Cloud, Android, AI tools)
@@ -226,8 +248,8 @@
 
 <div align="center">
 
-> 🎓 **Final Year B.Tech CSE · Graduating June 2026**
-> Available for **full-time SDE / Full-Stack / Backend roles** starting June 2026.
+> 🎓 **Final Year B.Tech CSE · Graduating April 2027**
+> Available for **full-time SDE / Full-Stack / Backend roles** starting April 2027.
 > I respond to all recruiter messages within 24 hours.
 
 <br/>
