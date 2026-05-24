@@ -114,7 +114,7 @@
 | 🏗️ **Architecture** | Designed for reliability & zero downtime during exams |
 | 🔗 **Live** | [skillnox.kitaghire.in](https://skillnox.kitaghire.in) |
 | 🛠 **Stack** | React · Node.js · Express · PostgreSQL |
-| 📁 **Repo & Proof** | 🔒 Private Codebase · [5,000 VU Stress Test Report](./docs/skillnox/STRESS_TEST_REPORT.md) · [Production Scaling Blueprint](./docs/skillnox/SCALING_GUIDE_5000_USERS.md) |
+| 📁 **Repo & Proof** | 🔒 Private Codebase<br/>• [5,000 VU Stress Test Report](./docs/skillnox/STRESS_TEST_REPORT.md)<br/>• [Production Scaling Blueprint](./docs/skillnox/SCALING_GUIDE_5000_USERS.md)<br/>• [System Architecture Design](./docs/skillnox/ARCHITECTURE.md)<br/>• [Database Schema & SQL](./docs/skillnox/DATABASE_SCHEMA.md)<br/>• [API Reference Guide](./docs/skillnox/API_REFERENCE.md)<br/>• [Use Case Specifications](./docs/skillnox/USE_CASE_DOCUMENT.md)<br/>• [Testing Strategy & Test Cases](./docs/skillnox/TEST_CASE_DOCUMENT.md)<br/>• [Deployment Guide](./docs/skillnox/DEPLOYMENT_GUIDE.md)<br/>• [Memory Optimization Blueprint](./docs/skillnox/MEMORY_OPTIMIZATION_SUMMARY.md)<br/>• [PDF Reporting Engine Reference](./docs/skillnox/PDF_REPORT_STRUCTURE_GUIDE.md)<br/>• [Production Code Showcase (Caching & Singleflight)](./docs/skillnox/CODE_SHOWCASE.md)<br/>• [Comprehensive Project Report](./docs/skillnox/PROJECT_REPORT.md) |
 
 ---
 
