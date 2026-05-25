@@ -47,7 +47,7 @@
 🏆  Won:         1st Prize — Elevate X Hackathon · 3rd Prize — Dept. Hackathon (StudentConnect)
 🌐  Led:         Google Student Ambassador @ KITS · 150+ community · 7+ technical workshops
 ⭐  Ranked:      HackerRank 5-Star Python · 3 Certifications · Oracle OCI Gen AI Professional
-📚  Learning:    System Design · Redis · AWS · Advanced DSA
+📚  Solving:     LeetCode Daily · System Design & Architecture · AWS Cloud
 📫  Contact:     varikallusurendra@gmail.com
 ```
 
