@@ -123,7 +123,9 @@
 | 🔐 **Transparency Dashboard** | Treatment progress dashboard for building patient trust |
 | 📲 **AI Follow-up Engine** | Smart post-treatment patient engagement system |
 | 🔗 **Demo** | [LinkedIn Post & Demo →](https://lnkd.in/gtD998Rx) |
-| 🛠️ **Stack** | Next.js · Node.js · Gemini API · Tailwind CSS |
+| 🛠️ **Stack** | React · Node.js · Express · Prisma · PostgreSQL |
+| 🧪 **Testing Suite** | [Testing Architecture & Coverage Report →](https://github.com/surendravarikallu/Global-Smile/blob/main/docs/TESTING.md) |
+| 📁 **Repo** | [Code →](https://github.com/surendravarikallu/Global-Smile) |
 
 ---
 
@@ -157,8 +159,9 @@
 | 🥉 **StudentConnect** | Hackathon 3rd Prize — collaborative student resource platform | Python · Django · PostgreSQL | [Live →](http://studentconnect-sjc1.onrender.com/) |
 | 🛡️ **Bug Bounty Platform** | Live CTF event platform with multi-round scoring & log analysis | React · Node.js · Express | [Live →](https://bug-bounty-j687.onrender.com/) |
 | 📚 **LumoraEd** | Student learning platform with roadmaps & progress analytics | React · Node.js · MongoDB | [Live →](https://lumoraed.onrender.com/) |
-| 🌦️ **SkySense** | Real-time weather dashboard with geolocation & maps | TypeScript · Leaflet · WeatherAPI | [Code →](https://github.com/surendravarikallu/weather_dashboard) · [Live →](https://weather-dashboard-wmdm.vercel.app/) |
-| ⛓️ **Algo Assistant** | AI chatbot for Algorand blockchain — create NFTs, tokens & dApps | React · Node.js · Gemini API | [Code →](https://github.com/surendravarikallu/Algo-assistant) |
+| 🌦️ **SkySense** | Real-time weather dashboard with geolocation & maps | TypeScript · Next.js · Leaflet | [Code →](https://github.com/surendravarikallu/weather_dashboard) · [Live →](https://weather-dashboard-wmdm.vercel.app/) · [Tests →](https://github.com/surendravarikallu/weather_dashboard/blob/main/docs/TESTING.md) |
+| ⛓️ **Algo Assistant** | AI chatbot for Algorand blockchain — create NFTs, tokens & smart contracts | React · Node.js · Gemini API | [Code →](https://github.com/surendravarikallu/Algo-assistant) · [Tests →](https://github.com/surendravarikallu/Algo-assistant/blob/main/docs/TESTING.md) |
+| 🤖 **Amazon ML Challenge** | Predict product prices from catalog text/images using NLP & Gradient Boosting | Python · Scikit-learn · PyTorch | [Code →](https://github.com/surendravarikallu/amazon_ml_challange) · [Tests →](https://github.com/surendravarikallu/amazon_ml_challange/blob/main/docs/TESTING.md) |
 | ✈️ **AdventureAura** | Travel agency site with tour booking & destination showcase | HTML · CSS · JavaScript | [Live →](https://adventure-aura-ivory.vercel.app/) |
 
 ---
