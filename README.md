@@ -103,6 +103,7 @@
 | 🔒 **Anti-Cheat Engine** | Tab detection · shortcut/Windows key blocking · DevTools disabled · AI extension blocking |
 | ⚡ **Auto-Grading** | Real-time result processing with instant score reporting |
 | 📐 **Architecture** | • [System Architecture Design →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox/ARCHITECTURE.md)<br/>• [Database Schema & SQL →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox/DATABASE_SCHEMA.md)<br/>• [API Reference Guide →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox/API_REFERENCE.md)<br/>• [Production Code Showcase →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox/CODE_SHOWCASE.md)<br/>• [Scaling Blueprint →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox/SCALING_GUIDE_5000_USERS.md) |
+| 🧪 **Testing Suite** | • [Testing Architecture & Coverage Report →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox/TESTING.md)<br/>• [Test Cases Document →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox/TEST_CASE_DOCUMENT.md) |
 | 📊 **Load Proof** | [5,000 VU Stress Test Report →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox/STRESS_TEST_REPORT.md) |
 | 🔧 **Ops & Setup** | [Deployment & OS Tuning Guide →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox/DEPLOYMENT_GUIDE.md) |
 | 🔗 **Live** | [skillnox.kitaghire.in](https://skillnox.kitaghire.in) |
