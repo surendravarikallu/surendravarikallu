@@ -35,7 +35,7 @@
 | 🏆 | **Hackathon Winner** — 1st Prize (Elevate X, 12hr sprint) · 3rd Prize (StudentConnect, 48hr) | [Demo →](https://lnkd.in/gtD998Rx) |
 | 🏗️ | **2 live production systems** — actively used at college scale right now | [skillnox.kitaghire.in](https://skillnox.kitaghire.in) · [kitaghire.in](https://kitaghire.in) |
 | ⭐ | **HackerRank 5-Star Python** · 3 HackerRank Certifications · Oracle OCI GenAI Professional | [HackerRank →](https://www.hackerrank.com/profile/varikallusurend1) |
-| 🌐 | **150+ student community** built & led as Google Student Ambassador · 7+ workshops delivered | KITS · Aug–Dec 2025 |
+| 🌐 | **300+ student community** built & led as Google Student Ambassador · 7+ workshops delivered | KITS · Aug–Dec 2025 |
 
 ---
 
@@ -45,7 +45,7 @@
 🔭  Building:    Skillnox.AI — AI-powered interview & assessment platform (Local LLMs, Qwen)
 🏗️  Deployed:    Skillnox (5k users, 99.66% load tested) · KITAghire.in (live college T&P portal)
 🏆  Won:         1st Prize — Elevate X Hackathon · 3rd Prize — Dept. Hackathon (StudentConnect)
-🌐  Led:         Google Student Ambassador @ KITS · 150+ community · 7+ technical workshops
+🌐  Led:         Google Student Ambassador @ KITS · 300+ community · 7+ technical workshops
 ⭐  Ranked:      HackerRank 5-Star Python · 3 Certifications · Oracle OCI Gen AI Professional
 📚  Solving:     LeetCode Daily · System Design & Architecture · AWS Cloud
 📫  Contact:     varikallusurendra@gmail.com
@@ -178,10 +178,10 @@
     Dept. of CSE, KITS  ·  48-hour hackathon  ·  Python · Django · PostgreSQL
     → Delivered a fully working product against multiple competing teams
 
-🌟  Google Student Ambassador                                         Aug – Dec 2025
+🌟  Google Student Ambassador                                         July – Dec 2025
     KITS Akshar Institute of Technology
     → Ran 7+ technical workshops (Google Cloud, Android, AI tools)
-    → Built and managed a 150+ student tech community from scratch
+    → Built and managed a 300+ student tech community from scratch
     → Drove 50% increase in Google program registrations on campus
 
 💼  Full-Stack Developer Intern — Cognifyz Technologies               Jun – Jul 2025
