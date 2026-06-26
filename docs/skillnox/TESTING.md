@@ -63,18 +63,14 @@ Running `npm run test:e2e` compiles results and creates a `playwright-report/` d
 
 ## 5. Automated CI/CD Pipeline (GitHub Actions)
 
-The platform runs a unified production-grade CI/CD pipeline defined in `.github/workflows/ci-cd.yml` on every branch push and pull request:
+The platform runs a unified production-grade CI pipeline defined in `.github/workflows/ci-cd.yml` on every branch push and pull request:
 
 1. **Continuous Integration (CI)**:
-   - **Service Containers**: Starts isolated `PostgreSQL 12` and `Redis 6` containers to back the test environment.
+   - **Service Containers**: Starts isolated `PostgreSQL 15` and `Redis 6` containers to back the test environment.
    - **Dependency Installation**: Runs `npm ci` with cached dependencies.
    - **Type Checking**: Runs `npm run check` to ensure clean TypeScript compilation.
    - **Application Build**: Runs `npm run build` to verify frontend and backend build pipelines.
-   - **Database Setup**: Executes database schema synchronization via Drizzle migrations (`npm run db:push`).
+   - **Database Setup**: Executes database schema migration (`npm run db:migrate`) and seeds an admin user for authentication testing.
    - **Unit & Integration Tests**: Runs Jest test suites.
    - **Playwright E2E Tests**: Installs browser dependencies and runs full-browser automation tests.
    - **Artifact Collection**: Uploads the interactive Playwright HTML report as a workflow artifact upon E2E test failures.
-
-2. **Continuous Deployment (CD)**:
-   - Triggered automatically on push to the `main` branch after the CI checks successfully pass.
-   - Connects to the production server via SSH, executes `git pull`, installs production packages, builds assets, and runs the reload script to gracefully restart PM2 cluster processes.
