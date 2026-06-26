@@ -165,7 +165,6 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| 🥉 **StudentConnect** | Collaborative learning platform for resource sharing and peer mentorship. Hackathon 3rd Prize winner. | Python · Django · PostgreSQL | [Live Link](http://studentconnect-sjc1.onrender.com/) |
 | 🛡️ **Bug Bounty Portal** | Multi-round capture-the-flag (CTF) security contest platform with real-time logging and scoreboard. | React · Node.js · Express | [Live Link](https://bug-bounty-j687.onrender.com/) |
 | 🌦️ **SkySense** | Real-time weather dashboard featuring geolocation mapping and predictive weather warnings. | TypeScript · Next.js · Leaflet | [Repository](https://github.com/surendravarikallu/weather_dashboard) · [Live Demo](https://weather-dashboard-wmdm.vercel.app/) |
 | 🤖 **Amazon ML Challenge** | NLP model predicting retail prices from text descriptions using Gradient Boosting and PyTorch. | Python · Scikit-learn · PyTorch | [Repository](https://github.com/surendravarikallu/amazon_ml_challange) |
@@ -218,6 +217,31 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surendravarikallu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/surendravarikallu)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surendravarikallu&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8)](https://github.com/surendravarikallu)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=surendravarikallu&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&date_format=j%20M%5B%20Y%5D)](https://github.com/surendravarikallu)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surendravarikallu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/surendravarikallu)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=surendravarikallu&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/surendravarikallu)
+
+</div>
+
+---
+
 ## 📬 Let's Connect
 
 *   🎓 **Graduating April 2027 (CSE)**
@@ -241,5 +265,7 @@
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5A67D8,100:6EE7F7&height=120&section=footer)](https://surendravarikallu.dev/)
 
 *"Systems engineer focused on scale, reliability, and automated validation."*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=surendravarikallu&color=5A67D8&style=for-the-badge&label=Profile+Views)](https://github.com/surendravarikallu)
 
 </div>
