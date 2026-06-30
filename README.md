@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/📧_Email-varikallusurendra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varikallusurendra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendravarikallu)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5⭐_Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/varikallusurend1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0tJlzdVQSx/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/surendra-varikallu/)
 
 </div>
 
@@ -48,7 +48,7 @@
 🏆  Won:         1st Place — Elevate X Hackathon · 3rd Place — Dept. Hackathon (StudentConnect)
 🌐  Led:         Google Student Ambassador @ KITS · 300+ member community · Delivered 7+ technical workshops
 ⭐  Ranked:      HackerRank 5-Star Python · Problem Solving & SQL Certified · Oracle OCI GenAI Professional
-📚  Solving:     Algorithms (LeetCode) · High-Performance System Architectures · Cloud Systems (AWS / OCI)
+📚  Solving:     LeetCode (live stats below ↓) · System Design · ServiceNow Development
 📫  Contact:     varikallusurendra@gmail.com
 ```
 
@@ -140,9 +140,9 @@
 
 > Production-grade platform replacing 100% of manual placement department paperwork at KITS, currently serving the administration, students, and recruiters.
 
-*   **Administrative Dashboard:** Provides placement progress metrics and real-time student registration tracking.
-*   **Student Portfolios:** Manages individual academic scores, placement histories, and training progress.
-*   **Reporting Tools:** Integrates automated, customized exports to Excel and PDF formats for academic reporting.
+*   **Administrative Dashboard:** Real-time placement analytics and student registration tracking, supporting 300+ concurrent active users during placement drives.
+*   **Student Portfolios:** Manages individual academic scores, placement histories, and training progress with role-based access control.
+*   **Reporting Automation:** Automated Excel/PDF report generation, reducing administrative reporting time by ~80%.
 
 | Link | Detail |
 |---|---|
@@ -213,20 +213,23 @@
 | **Python Developer (5-Star Badge & Certified)** | HackerRank | 2025 |
 | **HackerRank Problem Solving Certified** | HackerRank | 2025 |
 | **HackerRank SQL Certified** | HackerRank | 2025 |
-| **AI & Data Science Workshop Certification** | IIT Bombay (TechFest) | 2026 |
+
+> 🛠️ **Also Certified:** ServiceNow Certified System Administrator (CSA) · CAD in progress — enterprise ITSM track
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Coding Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surendravarikallu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/surendravarikallu)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surendravarikallu&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8)](https://github.com/surendravarikallu)
+[![GitHub Stats](https://github-readme-stats-two-orcin-52.vercel.app/api?username=surendravarikallu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/surendravarikallu)
+[![Top Languages](https://github-readme-stats-two-orcin-52.vercel.app/api/top-langs/?username=surendravarikallu&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8)](https://github.com/surendravarikallu)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=surendravarikallu&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&date_format=j%20M%5B%20Y%5D)](https://github.com/surendravarikallu)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surendravarikallu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/surendravarikallu)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/surendra-varikallu?theme=dark&font=baloo2&ext=heatmap)](https://leetcode.com/u/surendra-varikallu/)
 
 </div>
 
@@ -254,7 +257,7 @@
 [![Email](https://img.shields.io/badge/📧_Email-varikallusurendra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varikallusurendra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendravarikallu)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5⭐_Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/varikallusurend1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0tJlzdVQSx/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/surendra-varikallu/)
 
 </div>
 
