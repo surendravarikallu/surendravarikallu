@@ -239,7 +239,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=surendravarikallu&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/surendravarikallu)
+[![Trophies](https://github-profile-trophy-seven-ruby.vercel.app/?username=surendravarikallu&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/surendravarikallu)
 
 </div>
 
