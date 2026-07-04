@@ -136,7 +136,7 @@
 
 ---
 
-### 🏛️ KITAghire.in — *College Training & Placement Portal · Live*
+### 🏛️ KITAGhire.in — *College Training & Placement Portal · Live*
 
 > Production-grade platform replacing 100% of manual placement department paperwork at KITS, currently serving the administration, students, and recruiters.
 
