@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-surendravarikallu.dev-5A67D8?style=for-the-badge)](https://surendravarikallu.dev/)
 [![Email](https://img.shields.io/badge/📧_Email-varikallusurendra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varikallusurendra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendravarikallu)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5⭐_Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/varikallusurend1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5⭐_Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/surendra_Dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/surendra-varikallu/)
 
 </div>
