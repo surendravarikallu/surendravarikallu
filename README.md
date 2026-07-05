@@ -80,7 +80,7 @@
 ### 🤖 Artificial Intelligence
 [![Oracle OCI GenAI](https://img.shields.io/badge/Oracle%20OCI%20GenAI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/artificial-intelligence/)
 [![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
-[![Local LLMs (Qwen)](https://img.shields.io/badge/Local%20LLMs%20(Qwen)-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/QwenLM/Qwen)
+[![Local LLMs (Qwen)](https://img.shields.io/badge/Local%20LLMs%20(Qwen)-412991?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJhMTAgMTAgMCAxIDAgMCAyMCAxMCAxMCAwIDAgMCAwLTIwem0wIDE4YTggOCAwIDEgMSAwLTE2IDggOCAwIDAgMSAwIDE2eiIvPjwvc3ZnPg==&logoColor=white)](https://github.com/QwenLM/Qwen)
 
 ### 🚀 DevOps, Testing & Tooling
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -94,14 +94,14 @@
 
 ## 🚀 Featured Projects
 
-### 🥇 Skillnox — *Production Assessment Platform · 5,000+ Concurrent Users*
+### 🥇 Skillnox — *Production Assessment Platform · Load-Tested at 5,000 VUs*
 
 > Secure online assessment platform built from scratch and deployed college-wide at KITS. Architected, built, deployed, and maintained entirely by me.
 
 *   **Load test metrics (20-minute peak test):** Successfully processed **146,045 total HTTP requests** at a steady **118.7 req/s** throughput with **100.00% request success** (0 errors) and a **P99 latency of 17.12 ms**.
-*   **Performance Engineering:** Enabled a 3-tier leaderboard cache (local LRU cache with stale-while-revalidate ➔ shared Redis ➔ PostgreSQL with singleflight query coalescing) to prevent database stampedes under concurrent submissions.
+*   **Performance Engineering:** Enabled a 3-tier leaderboard cache (local LRU cache with stale-while-revalidate ➔ shared Redis ➔ PostgreSQL with request deduplication and query coalescing) to prevent database stampedes under concurrent submissions.
 *   **Memory Optimization:** Fixed worker cache eviction storms by tuning memory pressure middleware limits (raising threshold to 1200MB) and resolving garbage collection event-loop blocking.
-*   **Security & Anti-Cheat:** Implemented full-browser protection including active tab-switch tracking, keyboard shortcut interceptors, and DevTools/AI extensions blocking.
+*   **Security & Anti-Cheat:** Implemented full-browser protection including active tab-switch tracking, keyboard event interception, and DevTools/AI extensions blocking.
 *   **CI/CD Pipeline:** Configured automated GitHub Actions workflows running compilation checks, migrations, Jest tests, and Playwright E2E browser tests on spin-up PostgreSQL/Redis containers.
 
 | Document | Link |
@@ -120,9 +120,9 @@
 
 ### 🥇 Global Smile — *1st Prize Winner · Codegnan Elevate X Hackathon*
 
-> AI-powered Patient Acquisition & Trust Engine for prosthodontic clinics. Built from scratch in a 12-hour sprint across 3 live evaluation phases evaluated by industry experts.
+> AI-powered Patient Acquisition & Trust Engine for dental restoration clinics. Built from scratch in a 12-hour sprint across 3 live evaluation phases evaluated by industry experts.
 
-*   **Interactive Smile Visualizer:** Developed interactive modules to project post-treatment prosthodontic visuals.
+*   **Interactive Smile Visualizer:** Developed interactive modules to project post-treatment dental restoration previews.
 *   **Dental Tourism Calculator:** Built comparison engines to estimate dental costs across multiple states and countries.
 *   **Smart Follow-up System:** Created an AI-driven automated message system to guide post-treatment patient recovery.
 *   **Testing Integrity:** Setup comprehensive unit and integration testing pipelines to verify patient cost calculation logic.
@@ -167,7 +167,7 @@
 |---|---|---|---|
 | 🛡️ **Bug Bounty Portal** | Multi-round capture-the-flag (CTF) security contest platform with real-time logging and scoreboard. | React · Node.js · Express | [Live Link](https://bug-bounty-j687.onrender.com/) |
 | 🌦️ **SkySense** | Real-time weather dashboard featuring geolocation mapping and predictive weather warnings. | TypeScript · Next.js · Leaflet | [Repository](https://github.com/surendravarikallu/weather_dashboard) · [Live Demo](https://weather-dashboard-wmdm.vercel.app/) |
-| 🤖 **Amazon ML Challenge** | NLP model predicting retail prices from text descriptions using Gradient Boosting and PyTorch. | Python · Scikit-learn · PyTorch | [Repository](https://github.com/surendravarikallu/amazon_ml_challange) |
+| 🤖 **Amazon ML Challenge** | NLP model predicting retail prices from text descriptions using Gradient Boosting and PyTorch. | Python · Scikit-learn · PyTorch | [Repository](https://github.com/surendravarikallu/amazon_ml_challenge) |
 
 ---
 
