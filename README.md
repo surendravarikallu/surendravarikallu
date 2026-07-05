@@ -137,12 +137,24 @@
 
 ---
 
-### 🤖 Skillnox.AI — *AI Interview Platform (Active Development)*
+### 🤖 Skillnox.AI — *AI-Powered Placement Interview Simulator*
 
-> Assessment platform extension integrating technical interview evaluation using local AI models, maintaining complete data privacy.
+> Full-stack AI interview simulation platform with local LLM inference, multi-round placement workflows, and recruiter portfolio sharing — built for complete on-premise data privacy.
 
-*   **Local Inference:** Utilizes locally deployed Qwen LLM models for candidate answers evaluation, avoiding external API dependencies or data leaks.
-*   **Stack:** React · local Qwen LLM · Node.js · Express · PostgreSQL · Tailwind CSS
+*   **Local LLM Inference Pipeline:** Runs Qwen 2.5 3B via Ollama for real-time answer evaluation and dynamic question generation — zero external API dependencies, zero data leaks.
+*   **Multi-Round Simulation Engine:** Orchestrates Aptitude → Technical → HR interview rounds with configurable score-gating thresholds. Candidates must pass each round to advance, mirroring real placement drives across 23 companies (TCS, Google, Amazon, Goldman Sachs, etc.).
+*   **Evaluation Queue with Concurrency Control:** Priority-based task queue with bounded parallelism (max 2 active LLM calls), retry backoff (3 attempts × exponential delay), and heuristic load shedding at 100 pending tasks.
+*   **Recruiter Portfolio Sharing:** Students can generate privacy-masked public report links for recruiters — candidate emails, roll numbers, and voice/video logs are stripped from the public REST API response.
+*   **25,000-Sample Fine-Tuning Dataset:** Generated a structured JSONL training corpus covering 2025-26 trending topics (RAG, Vector Databases, LLM fine-tuning, System Design) for offline model improvement.
+*   **Admin Campaign Scheduler:** Placement officers can schedule automated mock interview drives targeting specific departments, with a background worker that auto-enrolls students at the configured launch time.
+
+| Document | Link |
+|---|---|
+| 📐 **System Architecture** | [Architecture Design & AI Pipeline →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox_ai/ARCHITECTURE.md) |
+| 🗄️ **Database Design** | [Database Schema & ER Diagram →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox_ai/DATABASE_SCHEMA.md) |
+| 💻 **Code Walkthrough** | [Production Code Showcase →](https://github.com/surendravarikallu/surendravarikallu/blob/main/docs/skillnox_ai/CODE_SHOWCASE.md) |
+| 📁 **Codebase** | [skillnox_ai Repository →](https://github.com/surendravarikallu/skillnox_ai) |
+| 🛠️ **Stack** | React · TypeScript · Node.js · Express · PostgreSQL · Drizzle ORM · Python · FastAPI · Ollama · Qwen 2.5 |
 
 ---
 
