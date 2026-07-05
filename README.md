@@ -37,21 +37,6 @@
 | 🏗️ | **2 Live Systems in Production** — Actively serving college departments daily | [skillnox.kitaghire.in](https://skillnox.kitaghire.in) · [kitaghire.in](https://kitaghire.in) |
 | ⭐ | **HackerRank 5-Star Python** · Problem Solving & SQL Certified · Oracle OCI GenAI Professional | [HackerRank Profile](https://www.hackerrank.com/profile/varikallusurend1) |
 | 🌐 | **Google Student Ambassador** — Built and led a campus community of 300+ tech students | KITS (Aug – Dec 2025) |
-
----
-
-## 👨‍💻 About Me
-
-```
-🔭  Building:    Skillnox.AI — AI-integrated interview and assessment platform (local Qwen LLM inference)
-🏗️  Deployed:    Skillnox (5k concurrent users, 100% success load test) · KITAghire.in (College placement portal)
-🏆  Won:         1st Place — Elevate X Hackathon · 3rd Place — Dept. Hackathon (StudentConnect)
-🌐  Led:         Google Student Ambassador @ KITS · 300+ member community · Delivered 7+ technical workshops
-⭐  Ranked:      HackerRank 5-Star Python · Problem Solving & SQL Certified · Oracle OCI GenAI Professional
-📚  Solving:     LeetCode (live stats below ↓) · System Design · ServiceNow Development
-📫  Contact:     varikallusurendra@gmail.com
-```
-
 ---
 
 ## 🛠️ Technical Skills
@@ -171,26 +156,11 @@
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience & Achievements
+
+### Internships
 
 ```
-🥇  1st Prize Winner — Codegnan Elevate X Hackathon                           May 2026
-    Global Smile  ·  12-Hour Sprint  ·  React · Node.js · Prisma · PostgreSQL
-    ➔ Built trust and billing engines for clinics under extreme time constraints
-    ➔ Evaluated by technical panel across 3 development iterations
-    ➔ Offered internships and placement opportunities post-event
-
-🥉  3rd Prize Winner — Department Hackathon                                    Feb 2026
-    StudentConnect  ·  48-Hour Sprint  ·  Python · Django · PostgreSQL
-    ➔ Engineered resource-sharing platforms for academic departments
-    ➔ Deployed and presented fully working software prototype to panels
-
-🌐  Google Student Ambassador                                              July – Dec 2025
-    KITS Akshar Institute of Technology
-    ➔ Organised 7+ developer workshops covering Android, cloud setups, and AI tools
-    ➔ Formed and managed a tech community of 300+ active student developers
-    ➔ Drove a 50% increase in developer student registrations on campus
-
 💼  Full-Stack Developer Intern — Cognifyz Technologies                    Jun – Jul 2025
     React · Node.js · Express · MongoDB
     ➔ Developed RESTful API endpoints and integrated UI screens
@@ -200,6 +170,29 @@
     React · Figma
     ➔ Designed responsive UI prototypes and built modern frontend screens
     ➔ Optimized asset sizing to maintain quick landing page load times (<2s)
+```
+
+### Hackathon Wins
+
+```
+🥇  1st Prize — Codegnan Elevate X Hackathon                                May 2026
+    Global Smile  ·  12-Hour Sprint  ·  React · Node.js · Prisma · PostgreSQL
+    ➔ Built trust and billing engines for dental clinics under extreme time constraints
+    ➔ Evaluated by technical panel across 3 development iterations
+
+🥉  3rd Prize — Department Hackathon                                        Feb 2026
+    StudentConnect  ·  48-Hour Sprint  ·  Python · Django · PostgreSQL
+    ➔ Engineered resource-sharing platforms for academic departments
+```
+
+### Community Leadership
+
+```
+🌐  Google Student Ambassador                                              Jul – Dec 2025
+    KITS Akshar Institute of Technology
+    ➔ Organised 7+ developer workshops covering Android, cloud setups, and AI tools
+    ➔ Built and managed a tech community of 300+ active student developers
+    ➔ Drove a 50% increase in developer student registrations on campus
 ```
 
 ---
@@ -245,21 +238,6 @@
 
 ---
 
-## 📬 Let's Connect
-
-*   🎓 **Graduating April 2027 (CSE)**
-*   Open to **Full-Time SDE / Backend / Full-Stack Roles** and **6-Month Co-ops / Internships** (Winter 2026 / Summer 2027).
-*   Open to relocate anywhere.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-surendravarikallu.dev-5A67D8?style=for-the-badge)](https://surendravarikallu.dev/)
-[![Email](https://img.shields.io/badge/📧_Email-varikallusurendra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varikallusurendra@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendravarikallu)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5⭐_Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/varikallusurend1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/surendra-varikallu/)
-
-</div>
 
 ---
 
