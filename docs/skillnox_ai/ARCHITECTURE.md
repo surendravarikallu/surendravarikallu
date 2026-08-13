@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-Skillnox.AI is an AI-powered placement interview simulation platform that evaluates candidates using locally hosted large language models (LLMs). The system orchestrates multi-round interview simulations (Aptitude → Technical → HR), scores answers in real-time using a Qwen-based local inference pipeline, and provides recruiter-facing portfolio sharing — all while keeping candidate data fully on-premise.
+Skillnox.AI is an AI-powered placement interview simulation platform that evaluates candidates using high-speed NVIDIA NIM Cloud APIs (`meta/llama-3.1-8b-instruct`) and Groq Cloud Whisper STT, with local Ollama models (`qwen3.5:9b`) serving as a fallback. The system orchestrates multi-round interview simulations (Aptitude → Technical → HR), scores answers in real-time using FastAPI inference pipelines, and provides recruiter-facing portfolio sharing.
 
 ## 2. System Architecture
 
@@ -24,9 +24,10 @@ Skillnox.AI is an AI-powered placement interview simulation platform that evalua
           │  PostgreSQL 15   │  │  Python FastAPI Service │
           │  (Drizzle ORM)   │  │  (Port 8000)           │
           │  Primary DB      │  ├────────────────────────┤
-          └──────────────────┘  │  Ollama Runtime        │
-                                │  (Qwen 2.5 3B LLM)    │
-                                │  Local Inference       │
+          └──────────────────┘  │ NVIDIA NIM Cloud API   │
+                                │ (Llama 3.1 8B Primary) │
+                                │                        │
+                                │ (Fallback: Ollama LLM) │
                                 └────────────────────────┘
 ```
 
@@ -35,7 +36,7 @@ Skillnox.AI is an AI-powered placement interview simulation platform that evalua
 1. **Frontend (Client)**
    * **Framework**: React 18 + TypeScript + Vite, styled with Tailwind CSS and shadcn/ui components.
    * **State Management**: TanStack React Query for server-state caching and declarative data fetching.
-   * **Interview Room**: Real-time question display with voice-to-text transcription (Web Speech API), timed answer submission, and emotion detection via webcam capture.
+   * **Interview Room**: Real-time question display with speech-to-text transcription (Groq Cloud Whisper API / Web Speech API), timed answer submission, and emotion detection via webcam capture (NVIDIA Vision API / HSEmotion).
    * **Recruiter Portfolio**: Public `/shared/report/:token` route renders a privacy-masked, read-only candidate scorecard accessible without authentication.
 
 2. **Backend (Node.js API Gateway)**
@@ -44,10 +45,11 @@ Skillnox.AI is an AI-powered placement interview simulation platform that evalua
    * **Evaluation Queue**: A priority queue (`EvaluationQueue` class) with concurrency limiting (2 active evaluations), retry backoff (up to 3 attempts with 5s × attempt delay), load shedding (rejects at 100 pending), and heuristic fallback scoring.
    * **Background Scheduler Worker**: A `setInterval`-based poller (30s interval) that auto-enrolls students into scheduled placement campaigns when the launch time arrives. Cleans up on `SIGINT`/`SIGTERM`.
 
-3. **AI Service (Python FastAPI + Ollama)**
-   * **Qwen 2.5 3B**: Locally hosted via Ollama for zero-latency, zero-cost inference with complete data privacy.
-   * **Dynamic Prompt Engineering**: Each interview question prompt is dynamically constructed using company-specific interviewer personas (e.g., Google's Googliness rubric, Amazon's Leadership Principles) and trending 2025-26 technical topics (RAG, Vector Databases, LLM fine-tuning).
-   * **Services**: `POST /evaluate` (answer scoring), `POST /generate-question` (dynamic question generation), `POST /analyze-resume` (resume parsing with Jinja2 templates), `POST /analyze-emotion` (facial expression classification from base64 webcam frames).
+3. **AI Service (Python FastAPI + NVIDIA NIM & Ollama)**
+   * **NVIDIA NIM Cloud API**: High-performance primary LLM inference engine using `meta/llama-3.1-8b-instruct` with multi-key pool rotation, 429 rate-limit backoff handling, and multi-socket async concurrency.
+   * **Local Ollama Fallback**: Local Ollama server (`qwen3.5:9b`) acts as an automated fallback if NVIDIA API keys are omitted or the cloud service is unreachable.
+   * **Dynamic Prompt Engineering**: Each interview question prompt is dynamically constructed using company-specific interviewer personas (e.g., Google's Googliness rubric, Amazon's Leadership Principles) and trending technical topics.
+   * **Services**: `POST /evaluate` (answer scoring), `POST /generate-question` (dynamic question generation), `POST /analyze-resume` (resume parsing with Jinja2 templates), `POST /analyze-emotion` (facial expression classification via NVIDIA Vision / HSEmotion).
 
 4. **Data Layer**
    * **PostgreSQL 15**: Primary relational database with UUID primary keys, indexed foreign keys, and cascading deletes. Managed via Drizzle ORM with type-safe schema generation.
