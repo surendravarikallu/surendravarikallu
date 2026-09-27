@@ -266,12 +266,10 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-two-orcin-52.vercel.app/api?username=surendravarikallu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/surendravarikallu)
-[![Top Languages](https://github-readme-stats-two-orcin-52.vercel.app/api/top-langs/?username=surendravarikallu&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8)](https://github.com/surendravarikallu)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=surendravarikallu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/surendravarikallu)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=surendravarikallu&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8)](https://github.com/surendravarikallu)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=surendravarikallu&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&date_format=j%20M%5B%20Y%5D)](https://github.com/surendravarikallu)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surendravarikallu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/surendravarikallu)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/surendra-varikallu?theme=dark&font=baloo2&ext=heatmap)](https://leetcode.com/u/surendra-varikallu/)
 
@@ -306,7 +304,6 @@
 </div>
 
 ---
-
 <div align="center">
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5A67D8,100:6EE7F7&height=120&section=footer)](https://surendravarikallu.dev/)
